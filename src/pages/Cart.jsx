@@ -41,7 +41,7 @@ const Cart = () => {
 
         <div className="flex flex-col">
           <p className="text-xl font-bold"> <span className="text-gray-700 font-semibold"> Total amount :</span>{" "} ${totalAmount}</p>
-          <button className="bg-green-700 hover:bg-purple-50 rounded-lg text-white transition duration-300 ease-linear mt-5 border-2 border-green-600 font-bold hover:text-green-700 p-3 text-xl mr-10">ChekOut</button>
+          <button className="bg-green-700 hover:bg-purple-50 rounded-lg text-white transition duration-300 ease-linear mt-5 border-2 border-green-600 font-bold hover:text-green-700 p-3 text-xl mr-10">CheckOut</button>
         </div>
 
         </div>
